@@ -14,9 +14,6 @@ import com.aruparking.serviceimpl.UserServiceFeeImpl;
 @RestController
 @RequestMapping("/fee")
 public class UserControllerFee {
-
-
-	//checking
 	
 	@Autowired
 	UserServiceFee userServiceFee;
